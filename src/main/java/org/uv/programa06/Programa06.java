@@ -7,7 +7,7 @@ package org.uv.programa06;
 
 /**
  *
- * @author minio
+ * @author erick
  */
 public class Programa06 {
 

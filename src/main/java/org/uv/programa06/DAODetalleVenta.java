@@ -12,7 +12,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author minio
+ * @author erick
  */
 public class DAODetalleVenta implements IDAOGeneral<DetalleVenta, Long> {
 

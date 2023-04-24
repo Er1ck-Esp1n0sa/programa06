@@ -11,7 +11,7 @@ import org.hibernate.cfg.Configuration;
 
 /**
  *
- * @author minio
+ * @author erick
  */
 public class HibernateUtil {
     private static final SessionFactory sessionFactory;
